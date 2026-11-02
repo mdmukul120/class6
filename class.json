@@ -1,0 +1,40 @@
+{
+    "education_system": "Bangladesh",
+    "classes": [
+        {
+            "class_name": "Class 6",
+            "class_name_bn": "ষষ্ঠ শ্রেণি",
+            "level": "Secondary"
+        },
+        {
+            "class_name": "Class 7",
+            "class_name_bn": "সপ্তম শ্রেণি",
+            "level": "Secondary"
+        },
+        {
+            "class_name": "Class 8",
+            "class_name_bn": "অষ্টম শ্রেণি",
+            "level": "Secondary"
+        },
+        {
+            "class_name": "Class 9",
+            "class_name_bn": "নবম শ্রেণি",
+            "level": "Secondary"
+        },
+        {
+            "class_name": "Class 10",
+            "class_name_bn": "দশম শ্রেণি",
+            "level": "Secondary"
+        },
+        {
+            "class_name": "Class 11",
+            "class_name_bn": "একাদশ শ্রেণি",
+            "level": "Higher Secondary"
+        },
+        {
+            "class_name": "Class 12",
+            "class_name_bn": "দ্বাদশ শ্রেণি",
+            "level": "Higher Secondary"
+        }
+    ]
+}
